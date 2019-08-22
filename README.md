@@ -1,5 +1,5 @@
-# useful-links
+# Useful-hyper-links
 useful links to improve and learn the coding languages
 
-# patterns to know
+# Patterns to know
 http://www.design-patterns-stories.com/patterns/AbstractFactory/
