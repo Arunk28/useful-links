@@ -6,3 +6,6 @@ http://www.design-patterns-stories.com/
 
 # React tuts
 https://create-react-app.dev/
+
+# Nginx commands
+https://www.keycdn.com/support/nginx-commands
