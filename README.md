@@ -12,3 +12,6 @@ https://www.keycdn.com/support/nginx-commands
 
 # dockerize the react app
 https://mherman.org/blog/dockerizing-a-react-app/
+
+# docker cheat-sheet
+https://www.digitalocean.com/community/tutorials/how-to-remove-docker-images-containers-and-volumes
