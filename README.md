@@ -9,3 +9,6 @@ https://create-react-app.dev/
 
 # Nginx commands
 https://www.keycdn.com/support/nginx-commands
+
+# dockerize the react app
+https://mherman.org/blog/dockerizing-a-react-app/
