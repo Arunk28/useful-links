@@ -15,3 +15,6 @@ https://mherman.org/blog/dockerizing-a-react-app/
 
 # docker cheat-sheet
 https://www.digitalocean.com/community/tutorials/how-to-remove-docker-images-containers-and-volumes
+
+# git
+https://dzone.com/articles/top-20-git-commands-with-examples
