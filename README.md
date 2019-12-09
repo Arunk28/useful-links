@@ -18,3 +18,6 @@ https://www.digitalocean.com/community/tutorials/how-to-remove-docker-images-con
 
 # git
 https://dzone.com/articles/top-20-git-commands-with-examples
+https://help.github.com/en/desktop/contributing-to-projects/creating-a-pull-request
+
+
